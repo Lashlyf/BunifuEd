@@ -307,7 +307,7 @@ footer div {
 
 .hero-image img { 
     width: 85%;
-    height: auto;
+    height: 60%;
     border-radius: 5%;
     border: 1px solid #ffffff;
     /* specifications found in https://css-tricks.com/perfect-full-page-background-image/ but had to be altered 
